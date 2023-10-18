@@ -7,9 +7,13 @@ body {
 }
 
 	.principal{
-		background-color: #CCCCCC;
+		background-color: #CCCCCC
+		padding:30px;
 }
-h1{
+.titulo-principal{
+	padding-left: 20px;
+}
+.titulo-centralizado{
 	text-align: center;
 }
 p{
@@ -28,7 +32,19 @@ em strong {
 }
 .beneficios{
 	background-color: #CCCCCC;
+	padding: 20px;
 }
-h2{
+{
 	text-align: ;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right:15%;
+}
+
+.imagembeneficios{
+	width:50%;
 }
